@@ -54,5 +54,5 @@ To get a local copy up and running follow these simple steps:
 1. Add project 
 - After preparing everything, simply add the project to Unity Hub and run it.
 ## Other
-- Explore more projects at [here](https://github.com/tranducthuan220401)
+- Explore more projects at [here](https://github.com/OtaTran241)
 
