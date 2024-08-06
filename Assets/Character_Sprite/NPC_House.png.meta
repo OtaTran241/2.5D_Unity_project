@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: 9e9231f752900764c914ebcfe8ba0989
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_House_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2240
+        width: 69
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367ed42f942c3b4aa81bda23490a6fd
+      internalID: -369111331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2240
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11362ccba5bafac4b8a00086a94eda06
+      internalID: -756896118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2240
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d034358b90a124fb8468a1d95e8222
+      internalID: -580820567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2240
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059fa7068c42d844b7117ddb07c58a6
+      internalID: -576399451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2240
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8277a2abb2014748b21c399cc6a7591
+      internalID: -2043786592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2240
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa5d4459bd29b4b90b5ca6560dd8a6
+      internalID: 1032563796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2240
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2b32ae8e621f4fa7a46d76c8bd871
+      internalID: -1122528161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2240
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fcdb904ac230244b4837a581920b5b
+      internalID: 1291500073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2065
+        width: 69
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7bcda769d3ac94cba0c1943d11db90
+      internalID: -957135717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2065
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924eab1f355107409690fba9375e717
+      internalID: 237205186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2065
+        width: 100
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112a81ad145e2840be3ff236e0efac7
+      internalID: 580210088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2065
+        width: 130
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd5269b927f614bbebf14c989c233b
+      internalID: -229349225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2065
+        width: 69
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77315c8ba8a94448507766efe6093a
+      internalID: 433575152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2065
+        width: 130
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2e90bf5fb8c1498fe800f18a66358
+      internalID: -1018337190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2065
+        width: 100
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820f49877dd96c4fbcc31f87c461755
+      internalID: -102572225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_15
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2065
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3eb5f1ff988a409be0f1159496853
+      internalID: 607490125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1872
+        width: 69
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149efe271f22c44abdbed0b7e975b8a
+      internalID: -1367626287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1872
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23610440a4fc231449a26f0466a9ae31
+      internalID: 1917253410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1872
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249aebdecbbe403458aaccf7bcae11e8
+      internalID: 1267933796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1872
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52f60a4f658254dad964468a6458ea
+      internalID: 1432099059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1872
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaec05fc2094ca4480e009f305dca02
+      internalID: 1528650400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1872
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9d3fb05b578f4e93b252e240b1454
+      internalID: 1836434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1872
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf26c84f2228a45a4a9b276415757c
+      internalID: -2119479431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1872
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c79e95ce9da954cb036534a370b27d
+      internalID: 289701116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1680
+        width: 69
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e6eaafcf128b4bb114c138c221c5f
+      internalID: 1948118634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1680
+        width: 129
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ccbac0aa55904caaed45112d4aaab
+      internalID: 143990415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1680
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af18bbf3b2555947844ed9b71f8e931
+      internalID: -127816048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1680
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c629c79e7b6f445906f6f276f92e85
+      internalID: 132914507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1680
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88903a6b82a8642ae7b8f67e97e2e3
+      internalID: 1234606250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_29
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1680
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2c2dfb40ba024986b2301a34ca022
+      internalID: 401722621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1680
+        width: 100
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fd5b47f721fc43a6e73c2d4bab7d6
+      internalID: -901659799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_31
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1680
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9fa1c49b097c4f847433a8aa2d994
+      internalID: -1128897367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1488
+        width: 69
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9a3611be90c442916aaf1fab56f12
+      internalID: -313159179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1488
+        width: 129
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f421fdbe43983b49a1df926c58bd7cf
+      internalID: -1332323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1488
+        width: 100
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45febd242ceb4fc419054c008f2ab36b
+      internalID: -1076274261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1488
+        width: 130
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34d0aa3a66ed94da1f26f8e10c3e6d
+      internalID: 1622607403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1488
+        width: 69
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322fdbe43256b904abcbb5bba78e98b9
+      internalID: -1692408404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_37
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1488
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812b8bca85dc534a819a66d0e72113c
+      internalID: -2087222275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_38
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1488
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8ea6846db7e545bbd7c6c0b0af2bb
+      internalID: 1699013959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_39
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1488
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2952cf7800264284dc8d30d33a961
+      internalID: 659113942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1297
+        width: 69
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec08e626b48af14d859104646c25d9a
+      internalID: -236839668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1297
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99d2ddee4c391e42b597a5482737c2a
+      internalID: 1877521291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1297
+        width: 100
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905818942266d364fad42cfbc885e1c7
+      internalID: 152518520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1297
+        width: 130
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565c1d9d38b90d49b77ac0089badaf8
+      internalID: -1389102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_44
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1297
+        width: 69
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ecb459e94977e4fb6a3fc9d4030e29
+      internalID: -1909289407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_45
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1297
+        width: 130
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996aafd13a46d244e9bd9b9750648529
+      internalID: 1489100917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_46
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1297
+        width: 100
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0770fb15ee3ad3148b232b9a76aa782b
+      internalID: 1420699393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1297
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ccbd451a7ee4c40a1a3ef75265cbec
+      internalID: -1593946229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1104
+        width: 69
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a2e6ba6bfdc844b412aaca79e7fb9
+      internalID: -181340384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1104
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953db39f333ba843ab6d3426f785d91
+      internalID: -1678278895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1104
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2942583c66ee947aefcdfc8f00ac1b
+      internalID: -1400047524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1104
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215677097d90aa9408b71a9f6cde11dc
+      internalID: -651499773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_52
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1104
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c241ac53352947bb2a73d62c68404
+      internalID: -297086442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_53
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1104
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8988a9ad4b4541b785fc7f1ad8d95
+      internalID: 1947307647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_54
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1104
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373dfe069f9cd9428cf52fc0b7a13df
+      internalID: -936789065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_55
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1104
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4001d207f712c6e4589bdfafc60506ee
+      internalID: -1763371218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 912
+        width: 69
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c444e5a95d264b64db71683b8f9d4b02
+      internalID: 1769154384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 129
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a480e346ca93147b0eec7109db375c
+      internalID: -1741638110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 912
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f109290b87ac42a7d28b7a78df29b
+      internalID: 1037823250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 912
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a892f8d2f58cd4d84340fddf02edb6
+      internalID: -2068328760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_60
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 912
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35110f595dc37408227d6f27784c0e
+      internalID: -1472643478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_61
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 912
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5036c7517677a408a7c949eb3ff183
+      internalID: -406440683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_62
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 912
+        width: 100
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a49837f9b57d4f89885e8d696174b
+      internalID: 2011857089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_63
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 912
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06439c3726e6ea64fa70e68cd1598ab4
+      internalID: 347694892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 720
+        width: 69
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c924e370824744d84af8d0e4c70168
+      internalID: 2105895696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 129
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ba711fa1507c48ac2a87f7dee9b38
+      internalID: 96085873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52c0de681254545a173132de89c8fb
+      internalID: -1623388588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 720
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e54f50b37d6b4fbcce90e7b060e7c
+      internalID: 661227502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_68
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 720
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d592d49351f447b6bc9c8d6d9185e
+      internalID: 510479303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 720
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a6c92be2089c4d8e6f4a8f8ef986f
+      internalID: -1102495211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_70
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 720
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d27579f046d704ab76f78e9d030d1b
+      internalID: -774498271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_71
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 720
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3c28ed52655849b1e05a051bddb7f
+      internalID: 1503555117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 529
+        width: 69
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de020a13ae132e84987e7f0391b7be56
+      internalID: 1161950895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 529
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba86c41bebce9846a53d697a4fb50c3
+      internalID: -1773058890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 529
+        width: 100
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f81006e044b843bd2b885547ff83b
+      internalID: -627737809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 529
+        width: 130
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362111a17bf1d7e49bd5bfc9524c73a7
+      internalID: -363339120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_76
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 529
+        width: 69
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5619f71a780a439b7593d1e2e0ba7
+      internalID: 648364548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_77
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 529
+        width: 130
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b466b1b0ef94f6438a844d9900da7b1
+      internalID: -818239405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_78
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 529
+        width: 100
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1abc5f07838554d90022eff1958a13
+      internalID: -1039831996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_79
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 529
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2dc20821cace42a74c8389551349c
+      internalID: -313487516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 336
+        width: 69
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1dc9b5d9e8ab4fa7cd7c751335f76
+      internalID: -910728998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 129
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65de7622241053439c568742add6466
+      internalID: 1205091989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 100
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf20cf8b4c830f4d93f7b07a71146fa
+      internalID: 777086849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 336
+        width: 130
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad6771fd1e94c04b8fe51560a3c2e6b
+      internalID: -569111507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_84
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 336
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b010328ebb3c741b7891a952c6d3b1
+      internalID: 728032141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_85
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 336
+        width: 130
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1860d064faff048b25e872f8e38992
+      internalID: 440060799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_86
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 336
+        width: 100
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f02195b235d248b67d16a805ad607
+      internalID: 238773895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_House_87
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 336
+        width: 130
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1185f3d427894a81162cf9af60acc
+      internalID: -1516429297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b79e503d22518b4895dbb0561b8ad53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NPC_House_0: -369111331
+      NPC_House_1: -756896118
+      NPC_House_10: 580210088
+      NPC_House_11: -229349225
+      NPC_House_12: 433575152
+      NPC_House_13: -1018337190
+      NPC_House_14: -102572225
+      NPC_House_15: 607490125
+      NPC_House_16: -1367626287
+      NPC_House_17: 1917253410
+      NPC_House_18: 1267933796
+      NPC_House_19: 1432099059
+      NPC_House_2: -580820567
+      NPC_House_20: 1528650400
+      NPC_House_21: 1836434422
+      NPC_House_22: -2119479431
+      NPC_House_23: 289701116
+      NPC_House_24: 1948118634
+      NPC_House_25: 143990415
+      NPC_House_26: -127816048
+      NPC_House_27: 132914507
+      NPC_House_28: 1234606250
+      NPC_House_29: 401722621
+      NPC_House_3: -576399451
+      NPC_House_30: -901659799
+      NPC_House_31: -1128897367
+      NPC_House_32: -313159179
+      NPC_House_33: -1332323782
+      NPC_House_34: -1076274261
+      NPC_House_35: 1622607403
+      NPC_House_36: -1692408404
+      NPC_House_37: -2087222275
+      NPC_House_38: 1699013959
+      NPC_House_39: 659113942
+      NPC_House_4: -2043786592
+      NPC_House_40: -236839668
+      NPC_House_41: 1877521291
+      NPC_House_42: 152518520
+      NPC_House_43: -1389102708
+      NPC_House_44: -1909289407
+      NPC_House_45: 1489100917
+      NPC_House_46: 1420699393
+      NPC_House_47: -1593946229
+      NPC_House_48: -181340384
+      NPC_House_49: -1678278895
+      NPC_House_5: 1032563796
+      NPC_House_50: -1400047524
+      NPC_House_51: -651499773
+      NPC_House_52: -297086442
+      NPC_House_53: 1947307647
+      NPC_House_54: -936789065
+      NPC_House_55: -1763371218
+      NPC_House_56: 1769154384
+      NPC_House_57: -1741638110
+      NPC_House_58: 1037823250
+      NPC_House_59: -2068328760
+      NPC_House_6: -1122528161
+      NPC_House_60: -1472643478
+      NPC_House_61: -406440683
+      NPC_House_62: 2011857089
+      NPC_House_63: 347694892
+      NPC_House_64: 2105895696
+      NPC_House_65: 96085873
+      NPC_House_66: -1623388588
+      NPC_House_67: 661227502
+      NPC_House_68: 510479303
+      NPC_House_69: -1102495211
+      NPC_House_7: 1291500073
+      NPC_House_70: -774498271
+      NPC_House_71: 1503555117
+      NPC_House_72: 1161950895
+      NPC_House_73: -1773058890
+      NPC_House_74: -627737809
+      NPC_House_75: -363339120
+      NPC_House_76: 648364548
+      NPC_House_77: -818239405
+      NPC_House_78: -1039831996
+      NPC_House_79: -313487516
+      NPC_House_8: -957135717
+      NPC_House_80: -910728998
+      NPC_House_81: 1205091989
+      NPC_House_82: 777086849
+      NPC_House_83: -569111507
+      NPC_House_84: 728032141
+      NPC_House_85: 440060799
+      NPC_House_86: 238773895
+      NPC_House_87: -1516429297
+      NPC_House_9: 237205186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

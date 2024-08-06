@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a03c33c9a0a28e2478b9a1bfee18d266
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - countText: {instanceID: 0}
+  - item: {instanceID: 0}
+  - itemToPickup: {fileID: 3914002701569708814, guid: 5d5f0a109017f4341858f8f0f9fac55d,
+      type: 3}
+  - dropButton: {instanceID: 0}
+  - parentAfterDrag: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b115e94ef661e340b66af378dd6b249
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemToDrop: {instanceID: 0}
+  - itemDropPf: {fileID: 3914002701569708814, guid: 5d5f0a109017f4341858f8f0f9fac55d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
