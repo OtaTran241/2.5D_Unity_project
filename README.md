@@ -45,7 +45,7 @@ Since this is only a prototype, there is no application available yet. However, 
 Before you begin, ensure you have the following installed:
 
 - Version: Unity 2022.3.19f1  
-- Files: you can use command "Git clone https://github.com/tranducthuan220401/2.5D_Unity_project.git" 
+- Files: you can use command "Git clone https://github.com/OtaTran241/2.5D_Unity_project.git" 
 
 ## Usage
 
